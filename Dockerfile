@@ -1,6 +1,6 @@
 # Base OS
-FROM bryanayers/centos5i686
-MAINTAINER bryanayers+dockerfile@gmail.com
+FROM incendonet/centos5i686
+MAINTAINER info@incendonet.com
 
 # Env setup
 ENV HOME /root
