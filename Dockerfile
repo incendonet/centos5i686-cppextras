@@ -1,5 +1,5 @@
 # Base OS
-FROM bryanayers/centos5i686
+FROM incendonet/centos5i686
 MAINTAINER info@incendonet.com
 
 # Env setup
